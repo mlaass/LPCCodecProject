@@ -1,0 +1,12 @@
+name = "LPCCodecProject"
+uuid = "0201fb58-2aa3-41be-a3c3-d2dada2f811b"
+authors = ["Moritz <moritz.laass@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+CodecBzip2 = "523fee87-0ab8-5b00-afb7-3ecf72e48cfd"
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+GZip = "92fee26a-97fe-5a0c-ad85-20a5f3185b63"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
